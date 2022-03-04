@@ -1,0 +1,303 @@
+{
+  "owners": [
+    {
+      "id": "33",
+      "name": "Martin",
+      "surname": "Perez",
+      "mail": "maperez@pickit.com",
+      "phoneNumber": "1157575757",
+      "photo": "https://randomuser.me/api/portraits/med/men/33.jpg"
+    },
+    {
+      "name": "Lucios",
+      "surname": "Trucco",
+      "mail": "123@gmail.com",
+      "phoneNumber": "011588867611",
+      "photo": "https://randomuser.me/api/portraits/med/women/31.jpg",
+      "id": "52"
+    },
+    {
+      "id": "22",
+      "name": "Manuel",
+      "surname": "Perez",
+      "mail": "mperez@pickit.com",
+      "phoneNumber": "1159595959",
+      "photo": "https://randomuser.me/api/portraits/med/women/32.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Martin",
+      "surname": "Perez",
+      "mail": "maperez@pickit.com",
+      "phoneNumber": "1157575757",
+      "photo": "https://randomuser.me/api/portraits/med/men/33.jpg"
+    },
+    {
+      "name": "Lucios",
+      "surname": "Trucco",
+      "mail": "123@gmail.com",
+      "phoneNumber": "011588867611",
+      "photo": "https://randomuser.me/api/portraits/med/women/31.jpg",
+      "id": "51"
+    },
+    {
+      "id": "21",
+      "name": "Manuel",
+      "surname": "Perez",
+      "mail": "mperez@pickit.com",
+      "phoneNumber": "1159595959",
+      "photo": "https://randomuser.me/api/portraits/med/women/32.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Martin",
+      "surname": "Perez",
+      "mail": "maperez@pickit.com",
+      "phoneNumber": "1157575757",
+      "photo": "https://randomuser.me/api/portraits/med/men/33.jpg"
+    }
+  ],
+  "cars": [
+    {
+      "model": "308",
+      "brand": "Peugeot",
+      "year": "2020",
+      "domain": "5123AS",
+      "color": "Black",
+      "kms": 10000,
+      "photo": "https://wallpaperaccess.com/full/534288.jpg",
+      "id": "100"
+    },
+    {
+      "model": "Stepway",
+      "brand": "Renault",
+      "year": "2022",
+      "domain": "ABC123",
+      "color": "Black",
+      "kms": 10000,
+      "photo": "https://wallpaperaccess.com/full/534288.jpg",
+      "ownerId": "31",
+      "id": "2"
+    },
+    {
+      "model": "Fiesta",
+      "brand": "Ford",
+      "year": "2015",
+      "domain": "ESTEES",
+      "color": "Grey",
+      "id": "3",
+      "ownerId": "31",
+      "kms": 10000,
+      "photo": "https://wallpaperaccess.com/full/534288.jpg"
+    },
+    {
+      "model": "308",
+      "brand": "Peugeot",
+      "year": "2021",
+      "domain": "AXS321",
+      "color": "Black",
+      "id": "4",
+      "ownerId": "31",
+      "kms": 10000,
+      "photo": "https://wallpaperaccess.com/full/534288.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "description": "Cambio de aceite",
+      "price": 200
+    },
+    {
+      "id": "2",
+      "description": "Cambio de Filtro",
+      "price": 2000
+    },
+    {
+      "id": "3",
+      "description": "Cambio de Correa",
+      "price": 3200
+    },
+    {
+      "id": "4",
+      "description": "Revision general",
+      "price": 2100
+    },
+    {
+      "id": "5",
+      "description": "Otro",
+      "price": 1000
+    }
+  ],
+  "statements": [
+    {
+      "id": "asd",
+      "date": "2022-03-02T22:45:25.582Z",
+      "paymentMethod": "Debit",
+      "carId": "3"
+    },
+    {
+      "id": "2",
+      "date": "2022-03-03T22:45:25.582Z",
+      "paymentMethod": "Debit",
+      "carId": "3"
+    },
+    {
+      "id": "3",
+      "date": "2022-03-01T22:45:25.582Z",
+      "paymentMethod": "Debit",
+      "carId": "3"
+    },
+    {
+      "id": "0db72141-5276-44ea-9304-6fbf80d41806",
+      "carId": "3",
+      "paymentMethod": "Debito",
+      "date": "2022-03-03T01:56:53.436Z"
+    },
+    {
+      "id": "778f9fec-bfcd-47d3-805f-0e62a18b2cda",
+      "carId": "3",
+      "paymentMethod": "Efectivo",
+      "date": "2022-03-03T01:59:38.877Z"
+    },
+    {
+      "id": "9fbf5e8b-c90d-44d6-b3dd-494755b44275",
+      "carId": "3",
+      "paymentMethod": "Debito",
+      "date": "2022-03-03T02:00:31.194Z"
+    },
+    {
+      "id": "efc9f660-d7be-461a-adee-528d5570edcc",
+      "carId": "3",
+      "paymentMethod": "Debito",
+      "date": "2022-03-03T02:00:33.704Z"
+    },
+    {
+      "id": "08dc3fa2-ae86-4d57-b0a0-1fbfdc4f9296",
+      "carId": "2",
+      "paymentMethod": "Debito",
+      "date": "2022-03-03T02:01:01.063Z"
+    },
+    {
+      "id": "b7358660-aadd-491c-a493-b31cc182ac2c",
+      "carId": "3",
+      "paymentMethod": "Debito",
+      "date": "2022-03-03T02:01:12.205Z"
+    },
+    {
+      "id": "21181b13-0988-47e3-8acd-6688f4b238ef",
+      "carId": "4",
+      "paymentMethod": "Efectivo",
+      "date": "2022-03-04T05:32:25.041Z"
+    },
+    {
+      "id": "fc9bab80-6cea-406e-82a4-5f96aefca3cd",
+      "carId": "4",
+      "paymentMethod": "Efectivo",
+      "date": "2022-03-04T05:33:15.929Z"
+    },
+    {
+      "id": "9e658f9d-1a8c-4208-86d8-77147ce08a3c",
+      "carId": "4",
+      "paymentMethod": "Efectivo",
+      "date": "2022-03-04T05:33:24.778Z"
+    }
+  ],
+  "statementsitems": [
+    {
+      "id": "1",
+      "statementId": "asd",
+      "serviceId": "1"
+    },
+    {
+      "id": "2",
+      "statementId": "asd",
+      "serviceId": "1"
+    },
+    {
+      "id": "3",
+      "statementId": "2",
+      "serviceId": "1"
+    },
+    {
+      "id": "4",
+      "statementId": "3",
+      "serviceId": "1"
+    },
+    {
+      "id": "5",
+      "statementId": "asd",
+      "serviceId": "1"
+    },
+    {
+      "id": "a468f424-1543-470f-8c7a-d43c086340aa",
+      "serviceId": "1",
+      "statementId": "0db72141-5276-44ea-9304-6fbf80d41806"
+    },
+    {
+      "id": "a141b3e4-d7e8-43a5-a256-8d1dd1e87529",
+      "serviceId": "2",
+      "statementId": "0db72141-5276-44ea-9304-6fbf80d41806"
+    },
+    {
+      "id": "452a95a4-d3c7-46d4-84e5-751e8201cb87",
+      "serviceId": "3",
+      "statementId": "778f9fec-bfcd-47d3-805f-0e62a18b2cda"
+    },
+    {
+      "id": "46e872ff-4f8b-4053-82bd-a096f15bad0d",
+      "serviceId": "4",
+      "statementId": "778f9fec-bfcd-47d3-805f-0e62a18b2cda"
+    },
+    {
+      "id": "62ab9df8-b459-422e-8f96-d0789dbe3827",
+      "serviceId": "5",
+      "statementId": "9fbf5e8b-c90d-44d6-b3dd-494755b44275"
+    },
+    {
+      "id": "2ef56875-56ec-40c0-abba-030fa355b956",
+      "serviceId": "5",
+      "statementId": "efc9f660-d7be-461a-adee-528d5570edcc"
+    },
+    {
+      "id": "f1eb0026-5ef6-47ee-a7a7-e56e60733e2f",
+      "serviceId": "1",
+      "statementId": "08dc3fa2-ae86-4d57-b0a0-1fbfdc4f9296"
+    },
+    {
+      "id": "0e3d798e-f26f-45c2-86dc-3f6e82f239da",
+      "serviceId": "2",
+      "statementId": "08dc3fa2-ae86-4d57-b0a0-1fbfdc4f9296"
+    },
+    {
+      "id": "8dac6c42-bcf3-4300-9c0c-ea5fbc627422",
+      "serviceId": "1",
+      "statementId": "b7358660-aadd-491c-a493-b31cc182ac2c"
+    },
+    {
+      "id": "e1243eb6-7515-4741-802a-526728919321",
+      "serviceId": "1",
+      "statementId": "21181b13-0988-47e3-8acd-6688f4b238ef"
+    },
+    {
+      "id": "b4aecec1-a665-44db-8482-88fec0d04369",
+      "serviceId": "3",
+      "statementId": "21181b13-0988-47e3-8acd-6688f4b238ef"
+    },
+    {
+      "id": "5bb24659-785a-4063-8e78-c2512de408cf",
+      "serviceId": "2",
+      "statementId": "fc9bab80-6cea-406e-82a4-5f96aefca3cd"
+    },
+    {
+      "id": "329af1f0-a2af-4a63-8119-b44ed2c8491c",
+      "serviceId": "3",
+      "statementId": "fc9bab80-6cea-406e-82a4-5f96aefca3cd"
+    },
+    {
+      "id": "b02ac2d3-f222-428d-b40c-5f4f4458df96",
+      "serviceId": "5",
+      "statementId": "9e658f9d-1a8c-4208-86d8-77147ce08a3c"
+    }
+  ]
+}
